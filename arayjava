@@ -1,0 +1,120 @@
+public class Array
+{
+public static void main(String args[])
+{
+byte[] points={6,2,9,4,8,3,5,7,1,10};
+System.out.println(points[6]);
+
+for(int a=0;a<10;a++)
+
+System.out.println(po[a]);
+}
+}
+
+
+2.  /*public class Array
+{
+public static void main(String args[])
+{
+int[] itcompany={11000,13000,10000,15000,12000,16000,19000,7000,9000,8500};
+System.out.println(itcompany[6]);
+
+for(int b=0;b<10;b++)
+
+System.out.println(itcompany[b]);
+}
+}
+*/
+
+
+3.  /*public class Array
+{
+public static void main(String args[])
+{
+short[] countriesinworld={125,155,142,170,167,158,128,136,186,127};
+System.out.println(countriesinworld[7]);
+
+for(int c=0;c<10;c++)
+
+System.out.println(countriesinworld[c]);
+}
+}
+
+
+4. /*public class Array
+{
+public static void main(String args[])
+{
+long[] bikeprice={300000,90000,120000,70000,75000,88000,130000,140000,60000,50000};
+System.out.println([6]);
+
+for(int d=0;d<10;d++)
+
+System.out.println(bikeprice[d]);
+}
+}
+
+*/
+
+
+
+
+5.   /*public class Array
+{
+public static void main(String args[])
+{
+float[] percentage={50.2f,90.5f,57.08f,89.99f,72.8f,82.7f,8.8f,78.9f,89.6f,76.09f};
+System.out.println([7]);
+
+for(int e=0;e<10;e++)
+
+System.out.println(percentage[e]);
+}
+}
+
+*/
+
+
+6.  /*public class Array
+{
+public static void main(String args[])
+{
+boolean[] TorF={true,false,true,false,true,true,false,true,false,true};
+System.out.println([6]);
+
+for(int f=0;f<10;f++)
+
+System.out.println(TorF[f]);
+}
+}
+
+*/
+
+
+7.   /*public class Array
+{
+public static void main(String args[])
+{
+double[] interest={87.088,67.006,50.098,30.900,20.056,4.078,7.099,8.007,4.004,8.657};
+System.out.println([2]);
+for(int g=0;g<10;g++)
+System.out.println(interest[g]);
+}
+}
+
+
+8.  /*public class Array
+{
+public static void main(String args[])
+{
+
+
+char[] ch={'a','b','c','d','e','f','g','h','i','j'};
+System.out.println(ch[1]);
+for(int h=0;h<10;h++)
+System.out.println(ch[h]);
+}
+}
+
+
+*/
