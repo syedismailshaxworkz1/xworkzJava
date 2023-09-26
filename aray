@@ -1,0 +1,117 @@
+public class Array
+{
+public static void main(String args[])
+{
+byte[] table={8,9,4,3,2,1,6,7,5,4};
+System.out.println(ratings[6]);
+
+for(int i=0;i<10;i++)
+
+System.out.println(table[a]);
+}
+}
+
+
+2.  public class Array
+{
+public static void main(String args[])
+{
+int[] moniter ={20000,30000,50000,10000,60000,90000,70000,80000,40000,60000};
+System.out.println(moniter[6]);
+
+for(int b=0;b<10;b++)
+
+System.out.println(moniter[d]);
+}
+}
+
+
+
+3.  public class Array
+{
+public static void main(String args[])
+{
+short[] bick={125,165,135,185,265,145,175,185,195};
+System.out.println(bick[8]);
+
+for(int c=0;c<10;c++)
+
+System.out.println(bick[c]);
+}
+}
+
+
+4. public class Array
+{
+public static void main(String args[])
+{
+long[] bike={100000,40000,60000,80000,120000,95000,68000,85000,88000,5000};
+System.out.println([6]);
+
+for(int d=0;d<10;d++)
+
+System.out.println(car[d]);
+}
+}
+
+
+
+
+
+
+5.   public class Array
+{
+public static void main(String args[])
+{
+float[] sre={50.2f,30.5f,67.08f,62.89f,42.5f,72.6f,37.5f,88.9f,49.7f,56.09f};
+System.out.println([7]);
+
+for(int e=0;e<10;e++)
+
+System.out.println(sre[e]);
+}
+}
+
+
+
+
+6. public class Array
+{
+public static void main(String args[])
+{
+boolean[] gab={true,false,true,false,true,true,false,true,false,true};
+System.out.println([6]);
+
+for(int f=0;f<10;f++)
+
+System.out.println(gab[f]);
+}
+}
+
+
+
+
+7.  public class Array
+{
+public static void main(String args[])
+{
+double[] iue={87.088,67.006,50.098,30.900,20.056,4.078,7.099,8.007,4.004,8.657};
+System.out.println([2]);
+for(int g=0;g<10;g++)
+System.out.println(iue[g]);
+}
+}
+
+
+8.  public class Array
+{
+public static void main(String args[])
+{
+
+
+char[] ch={'a','b','c','d','e','f','g','h','i','j'};
+System.out.println(ch[1]);
+for(int h=0;h<10;h++)
+System.out.println(ch[h]);
+}
+}
